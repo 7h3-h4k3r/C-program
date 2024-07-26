@@ -11,7 +11,7 @@
 
 ### Example
 
-Below is an illustration of an 8-bit binary number:
+Below is an illustration of an 32-bit binary number:
 
 ![MSB and LSB Diagram](https://github.com/7h3-h4k3r/C-program/blob/main/BITWISE_OPERATOR/images/Capture.PNG)
 
@@ -20,5 +20,5 @@ In this example:
 - **LSB** (Least Significant Bit) is the rightmost bit.
 ![MSB and LSB Diagram](https://github.com/7h3-h4k3r/C-program/blob/main/BITWISE_OPERATOR/images/how-to-convert-hex-to-binary-and-binary-to-hexadecimal.jpg)
 
-The value of the binary number `10110101` is calculated as follows:
+
 
