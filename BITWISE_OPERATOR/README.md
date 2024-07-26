@@ -1,5 +1,5 @@
 
 # LSB DEBUG
-![App Screenshot](images\Capture.PNG)
+![App Screenshot](\Capture.PNG)
 # WHATS IS LSB AND MSB
-![App Screenshot](images\how-to-convert-hex-to-binary-and-binary-to-hexadecimal.jpg)
+![App Screenshot](\how-to-convert-hex-to-binary-and-binary-to-hexadecimal.jpg)
