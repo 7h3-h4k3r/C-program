@@ -6,6 +6,6 @@ int main(){
     printf("Enter set bit index of the number :0-31 :");
     scanf("%d",&n);
     bitset = (1<<n) | num;
-   printf("%d",bitset);
+    printf("%d",bitset);
 
 }
